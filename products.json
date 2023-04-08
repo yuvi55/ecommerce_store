@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Iphone 14 Pro Max",
+        "image": "/images/shopping.jpeg",
+        "id": "ip_14_pro",
+        "description": "Best phone available in the market",
+        "price": "999"
+    },
+    {
+        "title": "Ipad Pro 2",
+        "image": "/images/ipad_pro.webp",
+        "id": "ipad_pro_2",
+        "description": "Best tablet available in the market",
+        "price": "1099"
+    },
+    {
+        "title": "Samsung Galaxy S23",
+        "image": "/images/galaxy_s23.webp",
+        "id": "samsung_s23",
+        "description": "Best Samsung phone available",
+        "price": "999"
+    },
+    {
+        "title": "Play Station 5",
+        "image": "/images/ps5.webp",
+        "id": "ps5",
+        "description": "Best gaming console available in the market",
+        "price": "499"
+    },
+    {
+        "title": "Google Pixel 7",
+        "image": "/images/pixel7.webp",
+        "id": "gp7",
+        "description": "Best tablet available in the market",
+        "price": "599"
+    },
+    {
+        "title": "Mac Book Pro 16' 2021",
+        "image": "/images/mac_book_pro_16.jpeg",
+        "id": "macbook_16_2021",
+        "description": "Apple Macbook Pro powered by M1 chip",
+        "price": "1699"
+    },
+    {
+        "title": "Ipad Pro 2",
+        "image": "/images/ipad_pro.webp",
+        "id": "ipad_pro_2",
+        "description": "Best tablet available in the market",
+        "price": "1099"
+    },
+    {
+        "title": "Ipad Pro 2",
+        "image": "/images/ipad_pro.webp",
+        "id": "ipad_pro_2",
+        "description": "Best tablet available in the market",
+        "price": "1099"
+    }
+]
